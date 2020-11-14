@@ -3,7 +3,7 @@
 Simple way to check email or bunch of emails with api. Thanks for <a href="https://isitarealemail.com">isitarealemail.com</a> the api.
 You may need to register the site and get your own api key
 
-pip3 install csv, requests, argparse
+`pip3 install csv, requests, argparse`
 
 # Features
 
